@@ -1,0 +1,11 @@
+# Ignore the backend_alok.zip file
+backend_alok.zip
+
+# Ignore the .env file (for sensitive environment variables)
+.env
+
+# Ignore the node_modules directory (for Node.js dependencies)
+node_modules/
+
+
+ 
